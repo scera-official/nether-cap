@@ -4,13 +4,6 @@
 
 No. This is a documentation companion maintained by SCERA Official. The upstream project is [Cancro29/NETHERCAP](https://github.com/Cancro29/NETHERCAP).
 
-## Does this repository contain the firmware?
-
-No. The supplied firmware archive was inventoried by filename, but its contents have not been independently analysed, and redistribution permission has not been established.
-
-## Why are the firmware and executable not included?
-
-The firmware is a third-party dual-use tool with capabilities that may disrupt networks or deceive users. The executable's provenance and licence are also unverified. This repository therefore publishes documentation only.
 
 ## Which hardware families are mentioned by the upstream project?
 
