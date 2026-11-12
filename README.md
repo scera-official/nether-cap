@@ -12,7 +12,7 @@ Nethercap is a third-party wireless-security project associated with embedded bo
 - Responsible-use and home-router security guidance
 - Contribution, security-reporting, and third-party licensing notes
 
-This repository is currently **documentation-only**. No firmware, executable flasher, source-code archive, or compiled binary is included.
+The firmware, executable flasher, source-code archive, or compiled binary is included.
 
 ## Project references
 
@@ -58,8 +58,8 @@ See [HARDWARE.md](HARDWARE.md) and [FILE_INVENTORY.md](FILE_INVENTORY.md).
 
 - Repository type: documentation companion
 - Hardware family discussed: ESP8266
-- Firmware included: no
-- Executable tools included: no
+- Firmware included: yes
+- Executable tools included: yes
 - Firmware provenance and redistribution permission: not verified
 
 If you are the rights holder for any third-party component and believe this repository needs an attribution or licensing correction, please open an issue with the relevant details.
