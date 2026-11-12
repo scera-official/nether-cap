@@ -1,0 +1,22 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+
+# Local secrets and credentials
+.env
+.env.*
+*.pem
+*.key
+secrets/
+credentials/
+
+# Local build outputs and unverified binaries
+build/
+dist/
+*.bin
+*.exe
+*.rar
+*.zip
